@@ -25,6 +25,7 @@
                                 <button class="btn btn-link">
                                     <a href="{{ route('admin.jugadores.show', $jugadore) }}">
                                         <i class="far fa-eye"></i>
+                                    </a>
                                 </button>
                             </td>
                         </tr>
